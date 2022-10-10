@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group_project</string>
+    <string name="button_Login">Login</string>
+    <string name="button_Register">Register</string>
+    <string name="editText_Username_Hint">Email</string>
+    <string name="editText_Password_Hint">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
