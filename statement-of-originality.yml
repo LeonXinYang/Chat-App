@@ -1,0 +1,62 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+# this document has been modified for the purpose of the COMP2100/6442 group assignment.
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code: 
+  - comment: A method to get the content of given position, "atPosition" function in espresso test
+    url: https://stackoverflow.com/questions/31394569/how-to-assert-inside-a-recyclerview-in-espresso
+    licence: public
+
+  - comment: A method to set text in textview, "setTextInTextView" function in espresso test
+    url: https://stackoverflow.com/questions/47216782/how-to-set-a-value-to-the-textview-using-espresso-in-android
+    licence: public
+
+  - comment: We refer the structure of BinarySearchTree.java, min(), max(), find() method
+      url: Lab code in Lab4
+      licence: public
+
+  - comment: We refer the structure of EmptyTree.java
+      url: Lab code in Lab4
+      licence: public
+
+  - comment: We refer the structure of Tree.java
+      url: Lab code in Lab4
+      licence: public
+
+  - comment: We refer the structure of AVLTree.java but we re-write most of methods by our own code.
+      url: Lab code in Lab4
+      licence: public
+
+  - comment: We refer some codes in the PostDataXML and UserDataXML of savedata() and loaddata() method, but we re-write most of methods by our own code.
+      url: Lecture Code
+      licence: public
+
+
+
+assets:
+  # NOTE: "Bliss" is just here as an example, you should remove it
+  - comment: "_Bliss_ by Charles O'Rear"
+    url: https://en.wikipedia.org/wiki/Bliss_(image)
+    licence: fair use
+
+  - comment: Some Android default icon
+    url: 
+    licence: resources in default package
+
+# for each member, write your name and uid here
+# remove any empty "name+uid" entries
+members:
+  - name: Zixin Feng
+    uid: U7233947
+  - name: Youshang Wang
+    uid: U6646184
+  - name: Xin Yang
+    uid: u7174459
+  - name: Qingxuan Yan
+    uid: u7166287
